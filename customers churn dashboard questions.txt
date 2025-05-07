@@ -1,0 +1,16 @@
+Q. How many total customers are there?
+Q. What is the overall churn rate?
+Q. How many customers have churned vs. retained?
+Q. What is the churn rate by gender?
+Q. Which gender has a higher risk of churning?
+Q. Which age group has the highest churn rate?
+Q. What is the average age of churned vs. retained customers?
+Q. How does geography (country) affect churn?
+Q. What is the average balance of churned vs. retained customers?
+Q. Do customers with a higher salary churn more or less?
+Q. What’s the correlation between balance and churn?
+Q. Does having a credit card affect churn likelihood?
+Q. Are inactive customers more likely to churn?
+Q. What is the churn rate based on the number of products a customer holds?
+Q. How does tenure (years with the bank) affect churn?
+
